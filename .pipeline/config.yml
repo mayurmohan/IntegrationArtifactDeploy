@@ -5,7 +5,7 @@ general:
 steps:
   deployIntegrationArtifact:
     cpiCredentialsId: roverpocOauthCred
-    integrationFlowId: flow2
+    integrationFlowId: flow4
     integrationFlowVersion: 1.0.1
     platform: cf
     host: https://roverpoc.it-accd002.cfapps.sap.hana.ondemand.com
