@@ -4,7 +4,7 @@ general:
 
 steps:
   deployIntegrationArtifact:
-    cpiCredentialsId: 87a6418b-2ac1-4839-b22a-b537f55f2176
+    cpiCredentialsId: roverpocOauthCred
     integrationFlowId: flow1
     integrationFlowVersion: 1.0.1
     platform: cf
