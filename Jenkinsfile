@@ -21,7 +21,6 @@ node() {
     }
   }
   stage('deployIntegrationArtifact Command') {
-      def status = deployIntegrationArtifact script: this
-	  println status
+       deployIntegrationArtifact script: this
   }
 }
