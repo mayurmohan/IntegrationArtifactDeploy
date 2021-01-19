@@ -3,7 +3,7 @@ general:
   iflowVersion: 1.0.1
 
 steps:
-  deployIntegrationArtifact:
+  integrationArtifactDeploy:
     cpiCredentialsId: roverpocOauthCred
     integrationFlowId: flow1
     integrationFlowVersion: 1.0.1
